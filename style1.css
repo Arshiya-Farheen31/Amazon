@@ -1,0 +1,33 @@
+
+h2{
+    text-align: center;
+    color: hotpink;
+    font-size: 30px;
+}
+body{
+    background-color: wheat;
+}
+
+.discount{
+    
+    height: 400px;
+        background-image: url("w1.jpg");
+         background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+        
+    
+    
+}
+.deals{
+    height: 400px;
+    background-image: url("w4.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+
+
+}
+
